@@ -23,23 +23,23 @@
 
 ### 📚 Recent Reads (2024)
 - Python Crash Course | ⭐⭐⭐⭐⭐
-  - Great start for a python beginning with engaging projects.
+  - Great start for a python beginner with engaging projects
 - System Design Interview Vol 1 | ⭐⭐⭐⭐⭐
   - Perfect match for system design interview rounds
 - System Design Interview Vol 2 | ⭐⭐⭐
   - Not essential but if you want to take your system design skills to the next level and handle advanced interview questions
 - Designing Data-Intensive Applications | ⭐⭐⭐⭐
-  - Enjoyable read with a focus on the data layer. Definitely plan on using as a reference.  
+  - Enjoyable read with a focus on the data layer. Definitely plan on using as a reference  
 - Becoming an Effective Software Engineering Manager | ⭐⭐⭐⭐⭐
   - If you are an engineering manager, this should be the next book you read!
 - How To Solve It | ⭐⭐⭐
   - Surprising brief! 30pgs + 200pgs of dictionary heuristics
 - Grokking Algorithms | ⭐⭐⭐⭐
-  - Never learned algorithms formally? Not sure why binary search is so much faster than linear search? This book is perfect to cover the basics. 
+  - Never learned algorithms formally? Not sure why binary search is so much faster than linear search? This book is perfect to cover the basics 
 - Code: The Hidden Language of Computer Hardware and Software | ⭐⭐⭐⭐
-  - Very cool introduction to computer architecture with some history and story telling thrown in.
+  - Very cool introduction to computer architecture with some history and story telling thrown in
 - The Mythical Man-Month | ⭐⭐
-  - A bit dated but with a few insights gems that made the read worth it.
+  - A bit dated but with a few insightful gems
 
 ### 📆 Hobbies
 - 🏋️‍♂️ Gym
