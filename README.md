@@ -1,11 +1,25 @@
-## Garron Sanchez, Engineering Manager and Software Engineer
-
-## 🙃 About me
-Hi all! My name is Garron. I have been an engineering manager since 2020 and a software engineer since 2015. I am happiest when coding. I really enjoy mentoring and I have grown just as much as my mentees. Feel free to reach out!
+## Hi, I'm Garron 👋
 
 ### 🚀 Recent Updates
-- I’m currently working on an alien invasion game in pygame 👾 
-- I’m currently learning python via [Python Crash Course](https://github.com/ehmatthes/pcc) 🐍
+- 👾 I’m currently developing an alien invasion game in pygame  
+- 🐍 I’m currently learning python via [Python Crash Course](https://github.com/ehmatthes/pcc)
+- 📖 I'm currently re-reading Code: The Hidden Language of Computer Hardware and Software 
+
+### 💻 Technology
+#### Professional Experience
+[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=black&style=for-the-badge)](https://javascript.info/)
+[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+
+#### Want To Learn
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
+
+#### Data Structures and Algorithms
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=LeetCode&style=for-the-badge)](https://leetcode.com/u/garronsanchez/) 
 
 ### 📚 Recent Reads (2024)
 - Python Crash Course | ⭐⭐⭐⭐⭐
@@ -19,7 +33,7 @@ Hi all! My name is Garron. I have been an engineering manager since 2020 and a s
 - Becoming an Effective Software Engineering Manager | ⭐⭐⭐⭐⭐
   - If you are an engineering manager, this should be the next book you read!
 - How To Solve It | ⭐⭐⭐
-  - Surprising brief! 30pgs + 200pgs of dictionary heurstics
+  - Surprising brief! 30pgs + 200pgs of dictionary heuristics
 - Grokking Algorithms | ⭐⭐⭐⭐
   - Never learned algorithms formally? Not sure why binary search is so much faster than linear search? This book is perfect to cover the basics. 
 - Code: The Hidden Language of Computer Hardware and Software | ⭐⭐⭐⭐
@@ -27,18 +41,19 @@ Hi all! My name is Garron. I have been an engineering manager since 2020 and a s
 - The Mythical Man-Month | ⭐⭐
   - A bit dated but with a few insights gems that made the read worth it.
 
-### Hobbies
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=LeetCode)](https://leetcode.com/u/garronsanchez/)
-![guitar](https://img.shields.io/badge/🎼-music-white)
-![ski](https://img.shields.io/badge/🎿-skiing-blue)
+### 📆 Hobbies
+- 🏋️‍♂️ Gym
+- 🎸 Guitar
+- ⛷️ Ski
 
-### Interests
-  ### 🎹 🎿
+### 🇺🇳 Languages
+- 🇬🇧 English 
+- 🇪🇸 Spanish
+- 🇫🇷 French
 
-### 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://linkedin.com/in/garronsanchez/)
-[![Gmail](https://img.shields.io/badge/Gmail-white?logo=Gmail)](mailto:garron.michael@gmail.com)
-
+### 📬 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&style=for-the-badge)](https://linkedin.com/in/garronsanchez/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:garron.michael@gmail.com)
 
 <!--
 **garronmichael/garronmichael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
