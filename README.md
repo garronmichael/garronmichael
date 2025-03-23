@@ -1,9 +1,8 @@
 ## Hi, I'm Garron 👋
 
 ### 🚀 Recent Updates
-- 👾 I’m currently developing an alien invasion game in pygame  
-- 🐍 I’m currently learning python via [Python Crash Course](https://github.com/ehmatthes/pcc)
-- 📖 I'm currently re-reading Code: The Hidden Language of Computer Hardware and Software 
+- 🎮 I’m currently learning C++ via [Programming Principles and Practice Using C++](https://www.stroustrup.com/programming.html) by Bjarne Stroustrup
+- 📖 I'm currently reading Careless People by Sarah Wynn-Williams
 
 ### 💻 Technology
 #### Professional Experience
