@@ -8,6 +8,7 @@
 #### Professional Experience
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=black&style=for-the-badge)](https://javascript.info/)
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk)](https://dev.java/)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
