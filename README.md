@@ -42,7 +42,7 @@
 
 ### 📆 Hobbies
 - 🏋️‍♂️ Gym
-- 🎸 Guitar
+- 🎹 Piano
 - ⛷️ Ski
 
 ### 🇺🇳 Languages
